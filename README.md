@@ -1,8 +1,7 @@
 # Site-completo
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <title>SpaceX</title>
+<head></head>
 </head>
 <body>
   <header>
